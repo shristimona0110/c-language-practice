@@ -6,7 +6,7 @@ int main(){
     marks[0] = 54;
     marks[1] = 44;
     marks[2] = 34;
-    marks[3] = 4;
+    marks[3] = 46;
     printf("marks of student 1 is %d",marks[0]);
     return 0;
 }
